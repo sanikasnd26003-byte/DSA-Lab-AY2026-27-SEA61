@@ -1,2 +1,1 @@
-# DSA-Lab-AY2026-27-SEA61
-DSA Laboratory Practicals-AY2026-27
+GitHub Repository for DSA Laboratory A.Y. 2026–27 Student Name: Sanika Suresh Salunkhe Roll Number: SEA61 Division: S.Y. E&TC - A Batch: D Course Name: Data Structures and Algorithms Lab Academic Year: 2026-27 Faculty Name: Dr. Varshaa Degaonkar
